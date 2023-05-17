@@ -25,5 +25,5 @@ Bake_spider.py 程序入口
 
 
 ### 3. 调用方式
-
-`python Baike_spider.py file_path`
+详见main函数
+<!-- `python Baike_spider.py file_path` -->
